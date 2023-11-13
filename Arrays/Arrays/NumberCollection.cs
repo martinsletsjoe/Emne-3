@@ -8,7 +8,7 @@ namespace ArraysCS
         public static void Run()
         {
             var count = 0;
-            while (true)
+            while (count < numbers.Length)
             {
                 var number = MyConsole.AskForInt("Skriv inn et tall: ");
                 var index = count;
@@ -20,12 +20,12 @@ namespace ArraysCS
 
         static void Show()
         {
-            for (int i = 0; i < numbers.Length; i++)
+            foreach (var number in numbers)
             {
                 //const int number = 5;
-                var number = numbers[i];
-                Console.WriteLine($"Element med indeks {i} har verdi {number}");
+                Console.Write(number + " ");
             }
+            Console.WriteLine();
         }
 
     }
