@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "HelloWorld2023b/1.0.0": {
+        "runtime": {
+          "HelloWorld2023b.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HelloWorld2023b/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\M\Desktop\Emne 3\HelloWorld2023b\HelloWorld2023b\bin\Debug\net7.0\HelloWorld2023b.exe
+C:\Users\M\Desktop\Emne 3\HelloWorld2023b\HelloWorld2023b\bin\Debug\net7.0\HelloWorld2023b.deps.json
+C:\Users\M\Desktop\Emne 3\HelloWorld2023b\HelloWorld2023b\bin\Debug\net7.0\HelloWorld2023b.runtimeconfig.json
+C:\Users\M\Desktop\Emne 3\HelloWorld2023b\HelloWorld2023b\bin\Debug\net7.0\HelloWorld2023b.dll
+C:\Users\M\Desktop\Emne 3\HelloWorld2023b\HelloWorld2023b\bin\Debug\net7.0\HelloWorld2023b.pdb
+C:\Users\M\Desktop\Emne 3\HelloWorld2023b\HelloWorld2023b\obj\Debug\net7.0\HelloWorld2023b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M\Desktop\Emne 3\HelloWorld2023b\HelloWorld2023b\obj\Debug\net7.0\HelloWorld2023b.AssemblyInfoInputs.cache
+C:\Users\M\Desktop\Emne 3\HelloWorld2023b\HelloWorld2023b\obj\Debug\net7.0\HelloWorld2023b.AssemblyInfo.cs
+C:\Users\M\Desktop\Emne 3\HelloWorld2023b\HelloWorld2023b\obj\Debug\net7.0\HelloWorld2023b.csproj.CoreCompileInputs.cache
+C:\Users\M\Desktop\Emne 3\HelloWorld2023b\HelloWorld2023b\obj\Debug\net7.0\HelloWorld2023b.dll
+C:\Users\M\Desktop\Emne 3\HelloWorld2023b\HelloWorld2023b\obj\Debug\net7.0\refint\HelloWorld2023b.dll
+C:\Users\M\Desktop\Emne 3\HelloWorld2023b\HelloWorld2023b\obj\Debug\net7.0\HelloWorld2023b.pdb
+C:\Users\M\Desktop\Emne 3\HelloWorld2023b\HelloWorld2023b\obj\Debug\net7.0\HelloWorld2023b.genruntimeconfig.cache
+C:\Users\M\Desktop\Emne 3\HelloWorld2023b\HelloWorld2023b\obj\Debug\net7.0\ref\HelloWorld2023b.dll
