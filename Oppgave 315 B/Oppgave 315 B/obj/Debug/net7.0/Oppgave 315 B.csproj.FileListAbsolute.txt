@@ -1,0 +1,14 @@
+C:\Users\M\Desktop\Emne 3\Oppgave 315 B\Oppgave 315 B\bin\Debug\net7.0\Oppgave 315 B.exe
+C:\Users\M\Desktop\Emne 3\Oppgave 315 B\Oppgave 315 B\bin\Debug\net7.0\Oppgave 315 B.deps.json
+C:\Users\M\Desktop\Emne 3\Oppgave 315 B\Oppgave 315 B\bin\Debug\net7.0\Oppgave 315 B.runtimeconfig.json
+C:\Users\M\Desktop\Emne 3\Oppgave 315 B\Oppgave 315 B\bin\Debug\net7.0\Oppgave 315 B.dll
+C:\Users\M\Desktop\Emne 3\Oppgave 315 B\Oppgave 315 B\bin\Debug\net7.0\Oppgave 315 B.pdb
+C:\Users\M\Desktop\Emne 3\Oppgave 315 B\Oppgave 315 B\obj\Debug\net7.0\Oppgave 315 B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M\Desktop\Emne 3\Oppgave 315 B\Oppgave 315 B\obj\Debug\net7.0\Oppgave 315 B.AssemblyInfoInputs.cache
+C:\Users\M\Desktop\Emne 3\Oppgave 315 B\Oppgave 315 B\obj\Debug\net7.0\Oppgave 315 B.AssemblyInfo.cs
+C:\Users\M\Desktop\Emne 3\Oppgave 315 B\Oppgave 315 B\obj\Debug\net7.0\Oppgave 315 B.csproj.CoreCompileInputs.cache
+C:\Users\M\Desktop\Emne 3\Oppgave 315 B\Oppgave 315 B\obj\Debug\net7.0\Oppgave 315 B.dll
+C:\Users\M\Desktop\Emne 3\Oppgave 315 B\Oppgave 315 B\obj\Debug\net7.0\refint\Oppgave 315 B.dll
+C:\Users\M\Desktop\Emne 3\Oppgave 315 B\Oppgave 315 B\obj\Debug\net7.0\Oppgave 315 B.pdb
+C:\Users\M\Desktop\Emne 3\Oppgave 315 B\Oppgave 315 B\obj\Debug\net7.0\Oppgave 315 B.genruntimeconfig.cache
+C:\Users\M\Desktop\Emne 3\Oppgave 315 B\Oppgave 315 B\obj\Debug\net7.0\ref\Oppgave 315 B.dll

@@ -1,0 +1,14 @@
+C:\Users\M\Desktop\Emne 3\Oppgave 315 B\ConsoleApp1 help\bin\Debug\net7.0\ConsoleApp1 help.exe
+C:\Users\M\Desktop\Emne 3\Oppgave 315 B\ConsoleApp1 help\bin\Debug\net7.0\ConsoleApp1 help.deps.json
+C:\Users\M\Desktop\Emne 3\Oppgave 315 B\ConsoleApp1 help\bin\Debug\net7.0\ConsoleApp1 help.runtimeconfig.json
+C:\Users\M\Desktop\Emne 3\Oppgave 315 B\ConsoleApp1 help\bin\Debug\net7.0\ConsoleApp1 help.dll
+C:\Users\M\Desktop\Emne 3\Oppgave 315 B\ConsoleApp1 help\bin\Debug\net7.0\ConsoleApp1 help.pdb
+C:\Users\M\Desktop\Emne 3\Oppgave 315 B\ConsoleApp1 help\obj\Debug\net7.0\ConsoleApp1 help.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M\Desktop\Emne 3\Oppgave 315 B\ConsoleApp1 help\obj\Debug\net7.0\ConsoleApp1 help.AssemblyInfoInputs.cache
+C:\Users\M\Desktop\Emne 3\Oppgave 315 B\ConsoleApp1 help\obj\Debug\net7.0\ConsoleApp1 help.AssemblyInfo.cs
+C:\Users\M\Desktop\Emne 3\Oppgave 315 B\ConsoleApp1 help\obj\Debug\net7.0\ConsoleApp1 help.csproj.CoreCompileInputs.cache
+C:\Users\M\Desktop\Emne 3\Oppgave 315 B\ConsoleApp1 help\obj\Debug\net7.0\ConsoleApp1 help.dll
+C:\Users\M\Desktop\Emne 3\Oppgave 315 B\ConsoleApp1 help\obj\Debug\net7.0\refint\ConsoleApp1 help.dll
+C:\Users\M\Desktop\Emne 3\Oppgave 315 B\ConsoleApp1 help\obj\Debug\net7.0\ConsoleApp1 help.pdb
+C:\Users\M\Desktop\Emne 3\Oppgave 315 B\ConsoleApp1 help\obj\Debug\net7.0\ConsoleApp1 help.genruntimeconfig.cache
+C:\Users\M\Desktop\Emne 3\Oppgave 315 B\ConsoleApp1 help\obj\Debug\net7.0\ref\ConsoleApp1 help.dll
