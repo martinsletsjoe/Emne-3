@@ -7,9 +7,10 @@
             if (args is not ["+" or "0"])
             {
                 Console.WriteLine("Angi + for klikk eller 0 for oppgradering");
+                return;
             }
 
-            
+
 
             var filename = "clickerdata.txt";
             int points;
@@ -29,16 +30,18 @@
             var isClick = args[0] == "+";
             if (isClick)
             {
-                points++;
+                points += pointsPerClick;
             }
-            else
+            else if (points >= 10) 
             {
+                points -= 10;
                 pointsPerClick++;
+                
             }
-            points++;
+
             Console.WriteLine($"{points} poeng");
-            
-            File.WriteAllText(filename, points+"\n" + pointsPerClick);
+
+            File.WriteAllText(filename, points + "\n" + pointsPerClick);
         }
     }
 }

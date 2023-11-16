@@ -1,0 +1,14 @@
+C:\Users\M\Desktop\Emne 3\Ordgåte\Ordgåte\obj\Debug\net7.0\Ordgåte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M\Desktop\Emne 3\Ordgåte\Ordgåte\obj\Debug\net7.0\Ordgåte.AssemblyInfoInputs.cache
+C:\Users\M\Desktop\Emne 3\Ordgåte\Ordgåte\obj\Debug\net7.0\Ordgåte.AssemblyInfo.cs
+C:\Users\M\Desktop\Emne 3\Ordgåte\Ordgåte\obj\Debug\net7.0\Ordgåte.csproj.CoreCompileInputs.cache
+C:\Users\M\Desktop\Emne 3\Ordgåte\Ordgåte\bin\Debug\net7.0\Ordgåte.exe
+C:\Users\M\Desktop\Emne 3\Ordgåte\Ordgåte\bin\Debug\net7.0\Ordgåte.deps.json
+C:\Users\M\Desktop\Emne 3\Ordgåte\Ordgåte\bin\Debug\net7.0\Ordgåte.runtimeconfig.json
+C:\Users\M\Desktop\Emne 3\Ordgåte\Ordgåte\bin\Debug\net7.0\Ordgåte.dll
+C:\Users\M\Desktop\Emne 3\Ordgåte\Ordgåte\bin\Debug\net7.0\Ordgåte.pdb
+C:\Users\M\Desktop\Emne 3\Ordgåte\Ordgåte\obj\Debug\net7.0\Ordgåte.dll
+C:\Users\M\Desktop\Emne 3\Ordgåte\Ordgåte\obj\Debug\net7.0\refint\Ordgåte.dll
+C:\Users\M\Desktop\Emne 3\Ordgåte\Ordgåte\obj\Debug\net7.0\Ordgåte.pdb
+C:\Users\M\Desktop\Emne 3\Ordgåte\Ordgåte\obj\Debug\net7.0\Ordgåte.genruntimeconfig.cache
+C:\Users\M\Desktop\Emne 3\Ordgåte\Ordgåte\obj\Debug\net7.0\ref\Ordgåte.dll
