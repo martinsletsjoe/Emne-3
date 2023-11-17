@@ -17,6 +17,7 @@
                 {
                     longestWord = word;
                 }
+
             }
             Console.WriteLine($"{longestWord} er det lengste ordet i teksten");
         }
