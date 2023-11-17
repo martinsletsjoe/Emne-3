@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\M\\Desktop\\Emne 3\\Oppgave 315 C\\Oppgave 315 C\\Oppgave 315 C.csproj": {}
+    "C:\\Users\\M\\Desktop\\Emne 3\\Oppgave 315 C\\oppgave 315 C\\oppgave 315 C.csproj": {}
   },
   "projects": {
-    "C:\\Users\\M\\Desktop\\Emne 3\\Oppgave 315 C\\Oppgave 315 C\\Oppgave 315 C.csproj": {
+    "C:\\Users\\M\\Desktop\\Emne 3\\Oppgave 315 C\\oppgave 315 C\\oppgave 315 C.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\M\\Desktop\\Emne 3\\Oppgave 315 C\\Oppgave 315 C\\Oppgave 315 C.csproj",
-        "projectName": "Oppgave 315 C",
-        "projectPath": "C:\\Users\\M\\Desktop\\Emne 3\\Oppgave 315 C\\Oppgave 315 C\\Oppgave 315 C.csproj",
+        "projectUniqueName": "C:\\Users\\M\\Desktop\\Emne 3\\Oppgave 315 C\\oppgave 315 C\\oppgave 315 C.csproj",
+        "projectName": "oppgave 315 C",
+        "projectPath": "C:\\Users\\M\\Desktop\\Emne 3\\Oppgave 315 C\\oppgave 315 C\\oppgave 315 C.csproj",
         "packagesPath": "C:\\Users\\M\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\M\\Desktop\\Emne 3\\Oppgave 315 C\\Oppgave 315 C\\obj\\",
+        "outputPath": "C:\\Users\\M\\Desktop\\Emne 3\\Oppgave 315 C\\oppgave 315 C\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,14 @@
+C:\Users\M\Desktop\Emne 3\315D\315D\bin\Debug\net7.0\315D.exe
+C:\Users\M\Desktop\Emne 3\315D\315D\bin\Debug\net7.0\315D.deps.json
+C:\Users\M\Desktop\Emne 3\315D\315D\bin\Debug\net7.0\315D.runtimeconfig.json
+C:\Users\M\Desktop\Emne 3\315D\315D\bin\Debug\net7.0\315D.dll
+C:\Users\M\Desktop\Emne 3\315D\315D\bin\Debug\net7.0\315D.pdb
+C:\Users\M\Desktop\Emne 3\315D\315D\obj\Debug\net7.0\315D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M\Desktop\Emne 3\315D\315D\obj\Debug\net7.0\315D.AssemblyInfoInputs.cache
+C:\Users\M\Desktop\Emne 3\315D\315D\obj\Debug\net7.0\315D.AssemblyInfo.cs
+C:\Users\M\Desktop\Emne 3\315D\315D\obj\Debug\net7.0\315D.csproj.CoreCompileInputs.cache
+C:\Users\M\Desktop\Emne 3\315D\315D\obj\Debug\net7.0\315D.dll
+C:\Users\M\Desktop\Emne 3\315D\315D\obj\Debug\net7.0\refint\315D.dll
+C:\Users\M\Desktop\Emne 3\315D\315D\obj\Debug\net7.0\315D.pdb
+C:\Users\M\Desktop\Emne 3\315D\315D\obj\Debug\net7.0\315D.genruntimeconfig.cache
+C:\Users\M\Desktop\Emne 3\315D\315D\obj\Debug\net7.0\ref\315D.dll
