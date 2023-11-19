@@ -1,0 +1,14 @@
+C:\Users\M\Desktop\Emne 3\mariesUndervisning\mariesUndervisning\obj\Debug\net7.0\mariesUndervisning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M\Desktop\Emne 3\mariesUndervisning\mariesUndervisning\obj\Debug\net7.0\mariesUndervisning.AssemblyInfoInputs.cache
+C:\Users\M\Desktop\Emne 3\mariesUndervisning\mariesUndervisning\obj\Debug\net7.0\mariesUndervisning.AssemblyInfo.cs
+C:\Users\M\Desktop\Emne 3\mariesUndervisning\mariesUndervisning\obj\Debug\net7.0\mariesUndervisning.csproj.CoreCompileInputs.cache
+C:\Users\M\Desktop\Emne 3\mariesUndervisning\mariesUndervisning\bin\Debug\net7.0\mariesUndervisning.exe
+C:\Users\M\Desktop\Emne 3\mariesUndervisning\mariesUndervisning\bin\Debug\net7.0\mariesUndervisning.deps.json
+C:\Users\M\Desktop\Emne 3\mariesUndervisning\mariesUndervisning\bin\Debug\net7.0\mariesUndervisning.runtimeconfig.json
+C:\Users\M\Desktop\Emne 3\mariesUndervisning\mariesUndervisning\bin\Debug\net7.0\mariesUndervisning.dll
+C:\Users\M\Desktop\Emne 3\mariesUndervisning\mariesUndervisning\bin\Debug\net7.0\mariesUndervisning.pdb
+C:\Users\M\Desktop\Emne 3\mariesUndervisning\mariesUndervisning\obj\Debug\net7.0\mariesUndervisning.dll
+C:\Users\M\Desktop\Emne 3\mariesUndervisning\mariesUndervisning\obj\Debug\net7.0\refint\mariesUndervisning.dll
+C:\Users\M\Desktop\Emne 3\mariesUndervisning\mariesUndervisning\obj\Debug\net7.0\mariesUndervisning.pdb
+C:\Users\M\Desktop\Emne 3\mariesUndervisning\mariesUndervisning\obj\Debug\net7.0\mariesUndervisning.genruntimeconfig.cache
+C:\Users\M\Desktop\Emne 3\mariesUndervisning\mariesUndervisning\obj\Debug\net7.0\ref\mariesUndervisning.dll
