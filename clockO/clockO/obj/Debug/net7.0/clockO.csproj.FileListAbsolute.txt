@@ -1,0 +1,14 @@
+C:\Users\M\Desktop\Emne 3\clockO\clockO\bin\Debug\net7.0\clockO.exe
+C:\Users\M\Desktop\Emne 3\clockO\clockO\bin\Debug\net7.0\clockO.deps.json
+C:\Users\M\Desktop\Emne 3\clockO\clockO\bin\Debug\net7.0\clockO.runtimeconfig.json
+C:\Users\M\Desktop\Emne 3\clockO\clockO\bin\Debug\net7.0\clockO.dll
+C:\Users\M\Desktop\Emne 3\clockO\clockO\bin\Debug\net7.0\clockO.pdb
+C:\Users\M\Desktop\Emne 3\clockO\clockO\obj\Debug\net7.0\clockO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M\Desktop\Emne 3\clockO\clockO\obj\Debug\net7.0\clockO.AssemblyInfoInputs.cache
+C:\Users\M\Desktop\Emne 3\clockO\clockO\obj\Debug\net7.0\clockO.AssemblyInfo.cs
+C:\Users\M\Desktop\Emne 3\clockO\clockO\obj\Debug\net7.0\clockO.csproj.CoreCompileInputs.cache
+C:\Users\M\Desktop\Emne 3\clockO\clockO\obj\Debug\net7.0\clockO.dll
+C:\Users\M\Desktop\Emne 3\clockO\clockO\obj\Debug\net7.0\refint\clockO.dll
+C:\Users\M\Desktop\Emne 3\clockO\clockO\obj\Debug\net7.0\clockO.pdb
+C:\Users\M\Desktop\Emne 3\clockO\clockO\obj\Debug\net7.0\clockO.genruntimeconfig.cache
+C:\Users\M\Desktop\Emne 3\clockO\clockO\obj\Debug\net7.0\ref\clockO.dll
