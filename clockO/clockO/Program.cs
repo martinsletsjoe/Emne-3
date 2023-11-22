@@ -8,7 +8,17 @@ namespace Watch
 
         static void Main(string[] args)
         {
-            var myTexts = new TextEffect();
+            var myText = new TextEffect();
+            myText.Text = "Seconds";
+            myText.TimeDigit = 60;
+
+            var myText2 = new TextEffect();
+            myText2.Text = "Minute";
+            myText2.TimeDigit = 60;
+
+            var myText3 = new TextEffect();
+            myText3.Text = "hour";
+            myText3.TimeDigit = 24;
 
 
 
@@ -16,10 +26,9 @@ namespace Watch
             Console.WindowWidth = 200;
             while (true)
             {
-
-                Timer(60, DateTime.Now.Second, "Seconds");
-                Timer(60, DateTime.Now.Minute, "Minute");
-                Timer(24, DateTime.Now.Hour, "Hour");
+                Timer(myText, DateTime.Now.Second);
+                Timer(myText2, DateTime.Now.Minute);
+                Timer(myText3, DateTime.Now.Hour);
                 // Mulig å sende et object som inneholder både timeunit og timetitle?
 
 
@@ -29,21 +38,31 @@ namespace Watch
             }
         }
 
-        private static void Timer(int timeUnits, int typeClock, string timeTitle)
+        private static void Timer(TextEffect textEffect, int typeClock)
         {
-            int secondsNow = typeClock;
+            Console.WriteLine(textEffect.Text);
 
-            Console.WriteLine(timeTitle);
-            Console.WriteLine("*".PadLeft(3 * secondsNow, ' '));
+            WriteWithPad("*", typeClock * 3);
 
+            Console.WriteLine(' ');
 
-            for (int seconds = 1; seconds <= timeUnits; seconds++)
+            for (int seconds = 1; seconds <= textEffect.TimeDigit; seconds++)
             {
-                Console.Write(seconds.ToString().PadLeft(3, ' '));
+                WriteWithPad(seconds, 3);
             }
 
             Console.WriteLine(' ');
         }
+
+        private static void WriteWithPad(int value, int length = 1)
+        {
+            Console.Write(value.ToString().PadLeft(length, ' '));
+        }
+        private static void WriteWithPad(string value, int length = 1)
+        {
+            Console.Write(value.PadLeft(length, ' '));
+        }
+
     }
 }
 

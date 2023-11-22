@@ -2,6 +2,7 @@
 {
     internal class TextEffect
     {
-        string Text;
+        public string Text;
+        public int TimeDigit;
     }
 }
