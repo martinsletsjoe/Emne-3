@@ -6,29 +6,23 @@
         {
             var words = GetWords();
 
-            GetWordEnding(words);
-
-        }
-
-        private static void GetWordEnding(string[] words)
-        {
             Random random = new Random();
             var randomWordIndex = random.Next(words.Length);
             var word = words[randomWordIndex];
 
             var randomWordEnd = new List<string>();
             string c;
-            for (int i = word.Length - 3; i < word.Length; i++)
+            for (int i = word.Length-3; i < word.Length; i++)
             {
                 c = word[i].ToString();
                 randomWordEnd.Add(c);
             }
-
             string resultString = string.Join("", randomWordEnd);
 
-            Console.WriteLine(resultString);
-            Console.WriteLine(word);
+            //Console.WriteLine(resultString);
+            //Console.WriteLine(word);
         }
+
 
 
         private static string[] GetWords()
