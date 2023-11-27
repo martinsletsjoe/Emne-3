@@ -1,0 +1,14 @@
+C:\Users\M\Desktop\Emne 3\oppgave 316A\oppgave 316A\bin\Debug\net7.0\oppgave 316A.exe
+C:\Users\M\Desktop\Emne 3\oppgave 316A\oppgave 316A\bin\Debug\net7.0\oppgave 316A.deps.json
+C:\Users\M\Desktop\Emne 3\oppgave 316A\oppgave 316A\bin\Debug\net7.0\oppgave 316A.runtimeconfig.json
+C:\Users\M\Desktop\Emne 3\oppgave 316A\oppgave 316A\bin\Debug\net7.0\oppgave 316A.dll
+C:\Users\M\Desktop\Emne 3\oppgave 316A\oppgave 316A\bin\Debug\net7.0\oppgave 316A.pdb
+C:\Users\M\Desktop\Emne 3\oppgave 316A\oppgave 316A\obj\Debug\net7.0\oppgave 316A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M\Desktop\Emne 3\oppgave 316A\oppgave 316A\obj\Debug\net7.0\oppgave 316A.AssemblyInfoInputs.cache
+C:\Users\M\Desktop\Emne 3\oppgave 316A\oppgave 316A\obj\Debug\net7.0\oppgave 316A.AssemblyInfo.cs
+C:\Users\M\Desktop\Emne 3\oppgave 316A\oppgave 316A\obj\Debug\net7.0\oppgave 316A.csproj.CoreCompileInputs.cache
+C:\Users\M\Desktop\Emne 3\oppgave 316A\oppgave 316A\obj\Debug\net7.0\oppgave 316A.dll
+C:\Users\M\Desktop\Emne 3\oppgave 316A\oppgave 316A\obj\Debug\net7.0\refint\oppgave 316A.dll
+C:\Users\M\Desktop\Emne 3\oppgave 316A\oppgave 316A\obj\Debug\net7.0\oppgave 316A.pdb
+C:\Users\M\Desktop\Emne 3\oppgave 316A\oppgave 316A\obj\Debug\net7.0\oppgave 316A.genruntimeconfig.cache
+C:\Users\M\Desktop\Emne 3\oppgave 316A\oppgave 316A\obj\Debug\net7.0\ref\oppgave 316A.dll

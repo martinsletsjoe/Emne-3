@@ -1,0 +1,14 @@
+C:\Users\M\Desktop\Emne 3\TextObjects\TextObjects\bin\Debug\net7.0\TextObjects.exe
+C:\Users\M\Desktop\Emne 3\TextObjects\TextObjects\bin\Debug\net7.0\TextObjects.deps.json
+C:\Users\M\Desktop\Emne 3\TextObjects\TextObjects\bin\Debug\net7.0\TextObjects.runtimeconfig.json
+C:\Users\M\Desktop\Emne 3\TextObjects\TextObjects\bin\Debug\net7.0\TextObjects.dll
+C:\Users\M\Desktop\Emne 3\TextObjects\TextObjects\bin\Debug\net7.0\TextObjects.pdb
+C:\Users\M\Desktop\Emne 3\TextObjects\TextObjects\obj\Debug\net7.0\TextObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M\Desktop\Emne 3\TextObjects\TextObjects\obj\Debug\net7.0\TextObjects.AssemblyInfoInputs.cache
+C:\Users\M\Desktop\Emne 3\TextObjects\TextObjects\obj\Debug\net7.0\TextObjects.AssemblyInfo.cs
+C:\Users\M\Desktop\Emne 3\TextObjects\TextObjects\obj\Debug\net7.0\TextObjects.csproj.CoreCompileInputs.cache
+C:\Users\M\Desktop\Emne 3\TextObjects\TextObjects\obj\Debug\net7.0\TextObjects.dll
+C:\Users\M\Desktop\Emne 3\TextObjects\TextObjects\obj\Debug\net7.0\refint\TextObjects.dll
+C:\Users\M\Desktop\Emne 3\TextObjects\TextObjects\obj\Debug\net7.0\TextObjects.pdb
+C:\Users\M\Desktop\Emne 3\TextObjects\TextObjects\obj\Debug\net7.0\TextObjects.genruntimeconfig.cache
+C:\Users\M\Desktop\Emne 3\TextObjects\TextObjects\obj\Debug\net7.0\ref\TextObjects.dll
