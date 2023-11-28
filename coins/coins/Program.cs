@@ -16,5 +16,6 @@ internal class Program
         var userInput = Console.ReadLine();
         var userInputInt = Convert.ToInt32(userInput);
         coinCounter.Calculate(userInputInt);
+        var answer = Console.ReadLine();
     }
 }
