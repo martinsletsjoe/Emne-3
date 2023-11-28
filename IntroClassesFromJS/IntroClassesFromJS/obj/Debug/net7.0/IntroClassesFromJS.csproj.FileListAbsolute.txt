@@ -1,0 +1,4 @@
+C:\Users\M\Desktop\Emne 3\IntroClassesFromJS\IntroClassesFromJS\obj\Debug\net7.0\IntroClassesFromJS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M\Desktop\Emne 3\IntroClassesFromJS\IntroClassesFromJS\obj\Debug\net7.0\IntroClassesFromJS.AssemblyInfoInputs.cache
+C:\Users\M\Desktop\Emne 3\IntroClassesFromJS\IntroClassesFromJS\obj\Debug\net7.0\IntroClassesFromJS.AssemblyInfo.cs
+C:\Users\M\Desktop\Emne 3\IntroClassesFromJS\IntroClassesFromJS\obj\Debug\net7.0\IntroClassesFromJS.csproj.CoreCompileInputs.cache

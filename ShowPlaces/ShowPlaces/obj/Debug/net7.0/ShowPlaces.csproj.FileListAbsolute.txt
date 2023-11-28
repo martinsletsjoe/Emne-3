@@ -1,0 +1,14 @@
+C:\Users\M\Desktop\Emne 3\ShowPlaces\ShowPlaces\bin\Debug\net7.0\ShowPlaces.exe
+C:\Users\M\Desktop\Emne 3\ShowPlaces\ShowPlaces\bin\Debug\net7.0\ShowPlaces.deps.json
+C:\Users\M\Desktop\Emne 3\ShowPlaces\ShowPlaces\bin\Debug\net7.0\ShowPlaces.runtimeconfig.json
+C:\Users\M\Desktop\Emne 3\ShowPlaces\ShowPlaces\bin\Debug\net7.0\ShowPlaces.dll
+C:\Users\M\Desktop\Emne 3\ShowPlaces\ShowPlaces\bin\Debug\net7.0\ShowPlaces.pdb
+C:\Users\M\Desktop\Emne 3\ShowPlaces\ShowPlaces\obj\Debug\net7.0\ShowPlaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M\Desktop\Emne 3\ShowPlaces\ShowPlaces\obj\Debug\net7.0\ShowPlaces.AssemblyInfoInputs.cache
+C:\Users\M\Desktop\Emne 3\ShowPlaces\ShowPlaces\obj\Debug\net7.0\ShowPlaces.AssemblyInfo.cs
+C:\Users\M\Desktop\Emne 3\ShowPlaces\ShowPlaces\obj\Debug\net7.0\ShowPlaces.csproj.CoreCompileInputs.cache
+C:\Users\M\Desktop\Emne 3\ShowPlaces\ShowPlaces\obj\Debug\net7.0\ShowPlaces.dll
+C:\Users\M\Desktop\Emne 3\ShowPlaces\ShowPlaces\obj\Debug\net7.0\refint\ShowPlaces.dll
+C:\Users\M\Desktop\Emne 3\ShowPlaces\ShowPlaces\obj\Debug\net7.0\ShowPlaces.pdb
+C:\Users\M\Desktop\Emne 3\ShowPlaces\ShowPlaces\obj\Debug\net7.0\ShowPlaces.genruntimeconfig.cache
+C:\Users\M\Desktop\Emne 3\ShowPlaces\ShowPlaces\obj\Debug\net7.0\ref\ShowPlaces.dll

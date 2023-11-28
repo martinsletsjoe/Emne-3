@@ -1,0 +1,14 @@
+C:\Users\M\Desktop\Emne 3\coins\coins\bin\Debug\net7.0\coins.exe
+C:\Users\M\Desktop\Emne 3\coins\coins\bin\Debug\net7.0\coins.deps.json
+C:\Users\M\Desktop\Emne 3\coins\coins\bin\Debug\net7.0\coins.runtimeconfig.json
+C:\Users\M\Desktop\Emne 3\coins\coins\bin\Debug\net7.0\coins.dll
+C:\Users\M\Desktop\Emne 3\coins\coins\bin\Debug\net7.0\coins.pdb
+C:\Users\M\Desktop\Emne 3\coins\coins\obj\Debug\net7.0\coins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M\Desktop\Emne 3\coins\coins\obj\Debug\net7.0\coins.AssemblyInfoInputs.cache
+C:\Users\M\Desktop\Emne 3\coins\coins\obj\Debug\net7.0\coins.AssemblyInfo.cs
+C:\Users\M\Desktop\Emne 3\coins\coins\obj\Debug\net7.0\coins.csproj.CoreCompileInputs.cache
+C:\Users\M\Desktop\Emne 3\coins\coins\obj\Debug\net7.0\coins.dll
+C:\Users\M\Desktop\Emne 3\coins\coins\obj\Debug\net7.0\refint\coins.dll
+C:\Users\M\Desktop\Emne 3\coins\coins\obj\Debug\net7.0\coins.pdb
+C:\Users\M\Desktop\Emne 3\coins\coins\obj\Debug\net7.0\coins.genruntimeconfig.cache
+C:\Users\M\Desktop\Emne 3\coins\coins\obj\Debug\net7.0\ref\coins.dll
