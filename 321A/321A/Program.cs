@@ -8,6 +8,7 @@ namespace _321A
         static void Main(string[] args)
         {
             var counter = new CharCounter();
+            string text = "something";
             while (!string.IsNullOrWhiteSpace(text))
             {
                 text = Console.ReadLine();

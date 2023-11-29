@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Diagnostics.Metrics;
 using static System.Net.Mime.MediaTypeNames;
 
 namespace _321A;
@@ -7,11 +8,14 @@ public class CharCounter
 {
     public int[] Counts;
 
-    public void AddText(string inputText)
+    public CharCounter()
     {
         var range = 250;
         Counts = new int[range];
-        inputText = "something";
+    }
+
+    public void AddText(string inputText)
+    {
         foreach (var character in inputText)
         {
             Counts[(int)character]++;
