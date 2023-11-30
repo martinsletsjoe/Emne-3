@@ -1,0 +1,14 @@
+C:\Users\M\Desktop\Emne 3\StatsWithEncapsulation\StatsWithEncapsulation\bin\Debug\net7.0\StatsWithEncapsulation.exe
+C:\Users\M\Desktop\Emne 3\StatsWithEncapsulation\StatsWithEncapsulation\bin\Debug\net7.0\StatsWithEncapsulation.deps.json
+C:\Users\M\Desktop\Emne 3\StatsWithEncapsulation\StatsWithEncapsulation\bin\Debug\net7.0\StatsWithEncapsulation.runtimeconfig.json
+C:\Users\M\Desktop\Emne 3\StatsWithEncapsulation\StatsWithEncapsulation\bin\Debug\net7.0\StatsWithEncapsulation.dll
+C:\Users\M\Desktop\Emne 3\StatsWithEncapsulation\StatsWithEncapsulation\bin\Debug\net7.0\StatsWithEncapsulation.pdb
+C:\Users\M\Desktop\Emne 3\StatsWithEncapsulation\StatsWithEncapsulation\obj\Debug\net7.0\StatsWithEncapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M\Desktop\Emne 3\StatsWithEncapsulation\StatsWithEncapsulation\obj\Debug\net7.0\StatsWithEncapsulation.AssemblyInfoInputs.cache
+C:\Users\M\Desktop\Emne 3\StatsWithEncapsulation\StatsWithEncapsulation\obj\Debug\net7.0\StatsWithEncapsulation.AssemblyInfo.cs
+C:\Users\M\Desktop\Emne 3\StatsWithEncapsulation\StatsWithEncapsulation\obj\Debug\net7.0\StatsWithEncapsulation.csproj.CoreCompileInputs.cache
+C:\Users\M\Desktop\Emne 3\StatsWithEncapsulation\StatsWithEncapsulation\obj\Debug\net7.0\StatsWithEncapsulation.dll
+C:\Users\M\Desktop\Emne 3\StatsWithEncapsulation\StatsWithEncapsulation\obj\Debug\net7.0\refint\StatsWithEncapsulation.dll
+C:\Users\M\Desktop\Emne 3\StatsWithEncapsulation\StatsWithEncapsulation\obj\Debug\net7.0\StatsWithEncapsulation.pdb
+C:\Users\M\Desktop\Emne 3\StatsWithEncapsulation\StatsWithEncapsulation\obj\Debug\net7.0\StatsWithEncapsulation.genruntimeconfig.cache
+C:\Users\M\Desktop\Emne 3\StatsWithEncapsulation\StatsWithEncapsulation\obj\Debug\net7.0\ref\StatsWithEncapsulation.dll
