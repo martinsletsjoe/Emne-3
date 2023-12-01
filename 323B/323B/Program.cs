@@ -26,22 +26,9 @@
                               "Angi kommando: ");
                 var team = Console.ReadLine();
 
-                // stoppet her
-                var selectedIndex = matchNo - 1;
-                var selectedMatch = matches[selectedIndex];
-                selectedMatch.AddGoal(team == "H");
-                var correctCount = 0;
-                for (var index = 0; index < matches.Length; index++)
-                {
-                    matches = matches[index];
-                    var mathNo = index + 1;
-                    var isBetCorrect = matches.IsBetCorrect();
-                    var isBetCorrectText = isBetCorrect ? "riktig" : "feil";
-                    if (isBetCorrect) correctCount++;
-                    Console.WriteLine($"Kamp {matchNo}: {matches.GetScore()} - {isBetCorrectText}");
-                }
-
-                Console.WriteLine($"Du har {correctCount} rette.");
+                matches.AddGoal(matchNo, team == "H");
+                matches.ShowAllScores();
+                matches.ShowCorrectCount();
             }
         }
     }

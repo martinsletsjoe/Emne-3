@@ -1,42 +1,50 @@
-﻿namespace _323B;
+﻿using System.Text.RegularExpressions;
+
+namespace _323B;
 
 public class TwelveMatches
 {
-    public int HomeGoals { get; private set; }
-    public int AwayGoals { get; private set; }
-    public static int MatchNo { get; private set; }
-    public string Bet { get; }
+    public Match[] _matches;
 
 
-    public TwelveMatches(string bet, int matchNo)
+    public TwelveMatches(string betsText)
     {
-        Bet = bet;
-        MatchNo = matchNo;
+        var bets = betsText.Split(',');
+        _matches = new Match[12];
+        for (int i = 0; i < _matches.Length; i++)
+        {
+            _matches[i] = new Match(bets[i]);
+        }
+
     }
-
-
+    
     public void AddGoal(int matchNo, bool isHomeTeam)
     {
-        MatchArray(matchNo);
-        //if (isHomeTeam) HomeGoals++;
-        //else AwayGoals++;
+        var selectedIndex = matchNo - 1;
+        var selectedMatch = _matches[selectedIndex];
+        selectedMatch.AddGoal(isHomeTeam);
     }
 
-    public bool IsBetCorrect()
+    public void ShowAllScores()
     {
-        var result = HomeGoals == AwayGoals ? "U" : HomeGoals > AwayGoals ? "H" : "B";
-        return Bet.Contains(result);
+        for (int i = 0; i < _matches.Length; i++)
+        {
+            var match = _matches[i];
+            var matchNo = i + 1;
+            var isBetCorrect = match.IsBetCorrect();
+            var isBetCorrectText = isBetCorrect ? "riktig" : "feil";
+            Console.WriteLine($"Kamp {matchNo}: {match.GetScore()} - {isBetCorrectText}");
+
+        }
     }
 
-    public string GetScore()
+    public void ShowCorrectCount()
     {
-        return HomeGoals + " - " + AwayGoals;
-    }
-
-    public static TwelveMatches[] MatchArray(int matchNo)
-    {
-        TwelveMatches[] result = new TwelveMatches[12];
-
-        return result;
+        var correctCount = 0;
+        foreach (var match in _matches)
+        {
+            if (match.IsBetCorrect()) correctCount++;
+        }
+        Console.WriteLine($"Du har {correctCount} rette.");
     }
 }
