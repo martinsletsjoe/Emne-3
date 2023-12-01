@@ -1,4 +1,4 @@
-﻿namespace _323A;
+﻿namespace _323B;
 
 internal class Match
 {
@@ -19,14 +19,9 @@ internal class Match
         else AwayGoals++;
     }
 
-    public void Stop()
-    {
-        MatchIsRunning = false;
-    }
-
     public bool IsBetCorrect()
     {
-        var result = HomeGoals == AwayGoals ? "U" : HomeGoals > AwayGoals ? "H": "B";
+        var result = HomeGoals == AwayGoals ? "U" : HomeGoals > AwayGoals ? "H" : "B";
         return Bet.Contains(result);
     }
 

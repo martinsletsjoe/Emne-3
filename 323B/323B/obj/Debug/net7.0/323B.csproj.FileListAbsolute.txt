@@ -1,0 +1,14 @@
+C:\Users\M\Desktop\Emne 3\323B\323B\obj\Debug\net7.0\323B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M\Desktop\Emne 3\323B\323B\obj\Debug\net7.0\323B.AssemblyInfoInputs.cache
+C:\Users\M\Desktop\Emne 3\323B\323B\obj\Debug\net7.0\323B.AssemblyInfo.cs
+C:\Users\M\Desktop\Emne 3\323B\323B\obj\Debug\net7.0\323B.csproj.CoreCompileInputs.cache
+C:\Users\M\Desktop\Emne 3\323B\323B\bin\Debug\net7.0\323B.exe
+C:\Users\M\Desktop\Emne 3\323B\323B\bin\Debug\net7.0\323B.deps.json
+C:\Users\M\Desktop\Emne 3\323B\323B\bin\Debug\net7.0\323B.runtimeconfig.json
+C:\Users\M\Desktop\Emne 3\323B\323B\bin\Debug\net7.0\323B.dll
+C:\Users\M\Desktop\Emne 3\323B\323B\bin\Debug\net7.0\323B.pdb
+C:\Users\M\Desktop\Emne 3\323B\323B\obj\Debug\net7.0\323B.dll
+C:\Users\M\Desktop\Emne 3\323B\323B\obj\Debug\net7.0\refint\323B.dll
+C:\Users\M\Desktop\Emne 3\323B\323B\obj\Debug\net7.0\323B.pdb
+C:\Users\M\Desktop\Emne 3\323B\323B\obj\Debug\net7.0\323B.genruntimeconfig.cache
+C:\Users\M\Desktop\Emne 3\323B\323B\obj\Debug\net7.0\ref\323B.dll
