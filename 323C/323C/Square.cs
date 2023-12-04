@@ -22,11 +22,11 @@ public class Square
 
         if (player1)
         {
-            Console.WriteLine($"This square is now taken by {Taken.Player1}");
+            Console.WriteLine($"x");
         }
         else
         {
-            Console.WriteLine($"This square is now taken by {Taken.Player2}");
+            Console.WriteLine($"o");
         }
     }
 }
