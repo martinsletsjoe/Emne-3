@@ -8,14 +8,23 @@ public class GameConsole
     {
         _board = board;
     }
-    public void Show(object board)
+    public void Show(Board board)
     {
-        Console.WriteLine(@"  a b c
+        Console.WriteLine($@"  a b c
    ┌─────┐
-  1│o    │
+  1│{}    │
   2│    o│
   3│× ×  │
    └─────┘");
+    }
+
+    public char GetChar(int index, Board board)
+    {
+        var square = board.GetSquare(index);
+        if (square == "x")
+        {
+            
+        }
     }
 
 

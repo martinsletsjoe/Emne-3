@@ -28,7 +28,7 @@
         _squares[row, col].SetSquareTaken(true, _squares[row, col]);
         }
 
-        public Square GetSquares(int index)
+        public Square GetSquare(int index)
         {
             return _squares[index];
         }
