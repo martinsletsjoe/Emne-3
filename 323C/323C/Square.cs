@@ -22,11 +22,11 @@ public class Square
 
         if (player1)
         {
-            Console.WriteLine($"x");
+            Console.WriteLine("x");
         }
         else
         {
-            Console.WriteLine($"o");
+            Console.WriteLine("o");
         }
     }
 }
