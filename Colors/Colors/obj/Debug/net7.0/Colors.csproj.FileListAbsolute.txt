@@ -1,0 +1,14 @@
+C:\Users\M\Desktop\Emne 3\Colors\Colors\bin\Debug\net7.0\Colors.exe
+C:\Users\M\Desktop\Emne 3\Colors\Colors\bin\Debug\net7.0\Colors.deps.json
+C:\Users\M\Desktop\Emne 3\Colors\Colors\bin\Debug\net7.0\Colors.runtimeconfig.json
+C:\Users\M\Desktop\Emne 3\Colors\Colors\bin\Debug\net7.0\Colors.dll
+C:\Users\M\Desktop\Emne 3\Colors\Colors\bin\Debug\net7.0\Colors.pdb
+C:\Users\M\Desktop\Emne 3\Colors\Colors\obj\Debug\net7.0\Colors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M\Desktop\Emne 3\Colors\Colors\obj\Debug\net7.0\Colors.AssemblyInfoInputs.cache
+C:\Users\M\Desktop\Emne 3\Colors\Colors\obj\Debug\net7.0\Colors.AssemblyInfo.cs
+C:\Users\M\Desktop\Emne 3\Colors\Colors\obj\Debug\net7.0\Colors.csproj.CoreCompileInputs.cache
+C:\Users\M\Desktop\Emne 3\Colors\Colors\obj\Debug\net7.0\Colors.dll
+C:\Users\M\Desktop\Emne 3\Colors\Colors\obj\Debug\net7.0\refint\Colors.dll
+C:\Users\M\Desktop\Emne 3\Colors\Colors\obj\Debug\net7.0\Colors.pdb
+C:\Users\M\Desktop\Emne 3\Colors\Colors\obj\Debug\net7.0\Colors.genruntimeconfig.cache
+C:\Users\M\Desktop\Emne 3\Colors\Colors\obj\Debug\net7.0\ref\Colors.dll
