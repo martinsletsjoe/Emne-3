@@ -10,15 +10,15 @@ public class GameConsole
     }
     public void Show(object board)
     {
-        Console.Clear();
-        Console.WriteLine(@"
-                a b c
-               ┌─────┐
-              1│o    │
-              2│    o│
-              3│× ×  │
-               └─────┘");
+        Console.WriteLine(@"  a b c
+   ┌─────┐
+  1│o    │
+  2│    o│
+  3│× ×  │
+   └─────┘");
     }
+
+
 }
 
 

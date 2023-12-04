@@ -2,7 +2,7 @@
 
     public class Board
     {
-        Square[,] _squares = new Square[3,3];
+        Square[] _squares = new Square[9];
 
 
         public Board()
@@ -26,5 +26,10 @@
                 row = position[1]-1;
             }
         _squares[row, col].SetSquareTaken(true, _squares[row, col]);
+        }
+
+        public Square GetSquares(int index)
+        {
+            return _squares[index];
         }
     }
