@@ -17,7 +17,7 @@
                     {"4", c => c.NextColor()},
                     {"5", c => c.PrevColor()},
                 };
-                Console.WriteLine("Farge: " + color.GetCurrentColor());
+                Console.WriteLine("Farge: " + color.TheColor);
                 Console.WriteLine("Hva vil du gjøre? ");
                 Console.WriteLine(" 1 = gå fra mørk til lys");
                 Console.WriteLine(" 2 = gå fra lys til mørk");

@@ -2,31 +2,26 @@
 
 public class Square
 {
-    private bool CheckIfEmpty(Taken value)
+    private Taken _content;
+
+    // Overtydelig
+    public Square()
     {
-        return value == Taken.Empty;
+        _content = Taken.Empty;
     }
 
-    public bool IsPlayer1(Taken value)
+    public bool IsEmpty()
     {
-        return value == Taken.Player1;
+        return _content == Taken.Empty;
     }
 
-    public void SetSquareTaken(bool player1, Taken value)
+    public bool IsPlayer1()
     {
-        if (!CheckIfEmpty(value))
-        {
-            Console.WriteLine("The square is not empty");
-            return;
-        }
+        return _content == Taken.Player1;
+    }
 
-        if (player1)
-        {
-            Console.WriteLine("x");
-        }
-        else
-        {
-            Console.WriteLine("o");
-        }
+    public void SetSquareTaken(bool isPlayer1)
+    {
+        _content = isPlayer1 ? Taken.Player1 : Taken.Player2;
     }
 }

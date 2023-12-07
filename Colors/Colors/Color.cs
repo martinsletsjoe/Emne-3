@@ -4,70 +4,74 @@ namespace Colors;
 
 public class Color
 {
-    private ConsoleColor _color;
+    public ConsoleColor TheColor { get; private set; }
 
     public Color()
     {
-        _color = ConsoleColor.Green;
+        TheColor = ConsoleColor.Green;
     }
 
     public ConsoleColor GetCurrentColor()
     {
-        return _color;
+        return TheColor;
     }
 
     public void SetColors()
     {
-        Console.BackgroundColor = _color;
-        Console.ForegroundColor = (ConsoleColor)(15 - (int)_color);
+        Console.BackgroundColor = TheColor;
+        Console.ForegroundColor = (ConsoleColor)(15 - (int)TheColor);
     }
 
     public void ToLight()
     {
-        var colorName = _color.ToString();
+        var colorName = TheColor.ToString();
         if (colorName.Contains("Dark"))
         {
             colorName = colorName.Substring(4);
-            _color = Enum.Parse<ConsoleColor>(colorName);
+            TheColor = Enum.Parse<ConsoleColor>(colorName);
         }
     }
 
     public void ToDark()
     {
-        var colorName = _color.ToString();  
+        var colorName = TheColor.ToString();  
         colorName = "Dark" + colorName;
-        var isSuccess = ConsoleColor.TryParse(colorName, out _color);
+        var isSuccess = ConsoleColor.TryParse(colorName, out ConsoleColor color);
+        if (isSuccess)
+        {
+            TheColor = color;
+        }
     }
 
     public void InvertColor()
     {
-        var colorNumber = (int)_color;
+        var colorNumber = (int)TheColor;
         colorNumber = 15 - colorNumber;
-        _color = (ConsoleColor)colorNumber;
+        TheColor = (ConsoleColor)colorNumber;
     }
 
     public void NextColor()
     {
-        if ((_color == ConsoleColor.White))
+        if ((TheColor == ConsoleColor.White))
         {
-            _color = ConsoleColor.Black;
+            TheColor = ConsoleColor.Black;
         }
         else
         {
-            _color++;
+            TheColor++;
         }
         
     }
 
     public void PrevColor()
     {
-        if (_color == ConsoleColor.Black)
+        if (TheColor == ConsoleColor.Black)
         {
-            _color = ConsoleColor.White;
+            TheColor = ConsoleColor.White;
         }
         else
         {
-            _color--;
+            TheColor--;
         }
     }
 }
